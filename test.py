@@ -1,4 +1,1 @@
-print("Hallo")
-print("Hoi")
-print("Kaas")
-print("karel")
+bericht = input
