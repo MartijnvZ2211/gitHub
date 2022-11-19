@@ -24,7 +24,7 @@ def klik3():
 
 # Er zit helaas een bug hier, de weer app werkt wel gewoon in de andere python file.
 def klik4():
-    import Weer_API
+    import Weer_App
 
 
 def fetch_data():
